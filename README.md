@@ -19,6 +19,17 @@ Hashcat GUI是一个为Hashcat密码破解工具设计的现代化图形用户�
 - 🔄 **结果管理**: 轻松查看破解结果和管理potfile
 - ⚙️ **路径配置保存**: 自动保存配置，下次使用更便捷
 
+![1](https://github.com/user-attachments/assets/0d90d7ec-4557-42b4-8d84-7970348e6f8b)
+![2](https://github.com/user-attachments/assets/741acfa2-05e8-4c4b-b957-0c2cc072d8fc)
+![3](https://github.com/user-attachments/assets/2a7c1972-e615-4133-8fd5-89b8d2460492)
+![4](https://github.com/user-attachments/assets/86ea1cc4-1c96-4dc9-85e6-6039122b941b)
+![5](https://github.com/user-attachments/assets/866d8fbd-6eb2-43d4-b5a4-e93530d53c39)
+![6](https://github.com/user-attachments/assets/c7e0e3db-3d2e-439e-a6bc-100c241e44bc)
+![7](https://github.com/user-attachments/assets/5b21e687-7ad5-4ab7-8021-6f1ee19d43ba)
+
+
+
+
 ## 系统要求
 
 - Windows 7/8/10/11
