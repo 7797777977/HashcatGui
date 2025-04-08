@@ -28,7 +28,9 @@ Hashcat GUI是一个为Hashcat密码破解工具设计的现代化图形用户�
 
 ## 安装和使用
 
-### 安装方法
+hacat项目地址： https://github.com/hashcat/hashcat
+请先下好hashcat对应的windows文件 然后在gui界面保存相应位置 就可以愉快的破解密码了
+本项目可以破解出出cmd5网站无法破解的密码（亲测有效）
 
 1. 下载最新发布版本的exe文件
 2. 附带一个8000W常用密码字典
