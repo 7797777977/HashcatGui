@@ -35,13 +35,8 @@ Hashcat GUI是一个为Hashcat密码破解工具设计的现代化图形用户�
 ### 安装方法
 
 1. 下载最新发布版本的exe文件
-2. 或者从源码安装:
-   ```
-   git clone https://github.com/username/hashcat-gui.git
-   cd hashcat-gui
-   pip install -r requirements.txt
-   python main.py
-   ```
+2. 附带一个8000W常用密码字典
+  
 
 ### 首次使用配置
 
@@ -81,29 +76,15 @@ A: 点击**显示结果(--show)**按钮可以查看已破解的密码。
 - 高强度破解可能导致GPU温度升高，请注意监控硬件温度
 - 建议先使用小型字典测试，再进行大规模破解
 
-## 项目贡献
-
-欢迎贡献代码、报告bug或提供功能建议：
-
-1. Fork本项目
-2. 创建您的特性分支 (`git checkout -b feature/amazing-feature`)
-3. 提交您的更改 (`git commit -m 'Add some amazing feature'`)
-4. 推送到分支 (`git push origin feature/amazing-feature`)
-5. 打开一个Pull Request
-
 ## 联系方式
 
 有问题或建议？欢迎联系作者：
 - 微信：pip_install_qsy
-- GitHub Issues：[提交问题](https://github.com/username/hashcat-gui/issues)
 
-## 许可证
-
-该项目采用MIT许可证 - 详情请查看[LICENSE](LICENSE)文件
 
 ## 关键词/标签
 
-`hashcat` `密码破解` `渗透测试` `安全工具` `哈希识别` `GPU加速` `密码恢复` `PyQt5` `Python应用` `网络安全` `哈希解密` `暗色主题` `GUI界面` `安全研究` `哈希破解` `密码学工具` `MD5破解` `SHA1破解` `NTLM破解` `WPA破解`
+`hashcat` `hashcatgui` `密码破解` `渗透测试` `安全工具` `哈希识别` `GPU加速` `密码恢复` `PyQt5` `Python应用` `网络安全` `哈希解密` `暗色主题` `GUI界面` `安全研究` `哈希破解` `密码学工具` `MD5破解` `SHA1破解` `NTLM破解` `WPA破解`
 
 ---
 
