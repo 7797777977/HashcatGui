@@ -1,16 +1,12 @@
-我很乐意为您编写一个清晰、吸引人的README文件，以便您在GitHub上发布您的Hashcat图形界面工具。这将帮助更多人发现和使用您的项目。
 
 # Hashcat GUI - 密码破解图形化工具
-
-![Hashcat GUI](https://raw.githubusercontent.com/username/hashcat-gui/main/screenshots/main_interface.png)
-
 ## 项目简介
 
 Hashcat GUI是一个为Hashcat密码破解工具设计的现代化图形用户界面，旨在简化密码破解过程，提供友好的用户体验。本工具采用PyQt5构建，具有暗色主题界面，使用户能够轻松地利用GPU加速进行高效的密码破解操作。
 
 **作者**: 秦思扬  
 **版本**: 2.3  
-**发布日期**: 2025年4月10日
+**发布日期**: 2025年4月8日
 
 ## 主要特性
 
